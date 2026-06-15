@@ -57,3 +57,30 @@ Freight Revenue by Branch
 Shipment Weight by Branch
 Source Station Analysis
 Destination Station Analysis
+
+
+## Dashboard Screenshots
+
+<h3>Hyderabad Branch Dashboard - Page 1</h3>
+<img src="Screenshots/ovk(Hyd-1).png" width="100%">
+
+<h3>Hyderabad Branch Dashboard - Page 2</h3>
+<img src="Screenshots/ovk(Hyd-2).png" width="100%">
+
+<h3>Kazipet Branch Dashboard - Page 1</h3>
+<img src="Screenshots/ovk(Kaz-1).png" width="100%">
+
+<h3>Kazipet Branch Dashboard - Page 2</h3>
+<img src="Screenshots/ovk(Kaz-2).png" width="100%">
+
+<h3>Secunderabad Branch Dashboard - Page 1</h3>
+<img src="Screenshots/ovk(Sec-1).png" width="100%">
+
+<h3>Secunderabad Branch Dashboard - Page 2</h3>
+<img src="Screenshots/ovk(Sec-2).png" width="100%">
+
+<h3>Warangal Branch Dashboard - Page 1</h3>
+<img src="Screenshots/ovk(WL-1).png" width="100%">
+
+<h3>Warangal Branch Dashboard - Page 2</h3>
+<img src="Screenshots/ovk(WL-2).png" width="100%">
